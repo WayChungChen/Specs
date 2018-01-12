@@ -46,7 +46,7 @@
       "vendored_frameworks": "ReactiveFirebaseFrameworks/ReactiveFirebaseAuth/Frameworks/ReactiveFirebaseAuth.framework",
       "dependencies": {
         "Firebase/Auth": [
-          "3.11.0"
+          "~> 3.11.0"
         ]
       }
     },
@@ -55,7 +55,7 @@
       "vendored_frameworks": "ReactiveFirebaseFrameworks/ReactiveFirebaseDatabase/Frameworks/ReactiveFirebaseDatabase.framework",
       "dependencies": {
         "Firebase/Database": [
-          "3.11.0"
+          "~> 3.11.0"
         ]
       }
     },
@@ -64,7 +64,7 @@
       "vendored_frameworks": "ReactiveFirebaseFrameworks/ReactiveFirebaseStorage/Frameworks/ReactiveFirebaseStorage.framework",
       "dependencies": {
         "Firebase/Storage": [
-          "3.11.0"
+          "~> 3.11.0"
         ]
       }
     }
